@@ -8,7 +8,7 @@
 [![GitHub APinkDev](https://img.shields.io/github/followers/APinkDev?label=follow&style=social)](https://github.com/APinkDev)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://i.pinimg.com/originals/2c/fc/fa/2cfcfabf5f5fe0aa109cbe34aa12df2a.gif" width="50"> A little more about me...  
 
 ```javascript
 const Neko = {
