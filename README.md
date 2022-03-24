@@ -4,7 +4,7 @@
 </em></p>
 
 
-[![Linkedin: daniel-silva](https://img.shields.io/badge/-APinkDev-0073B1?style=flat-square)](https://www.linkedin.com/in/daniel-silva-527920214/)
+[![Linkedin: daniel-silva](https://img.shields.io/badge/-DanielSilva-0073B1?style=flat-square)](https://www.linkedin.com/in/daniel-silva-527920214/)
 [![GitHub APinkDev](https://img.shields.io/github/followers/APinkDev?label=follow&style=social)](https://github.com/APinkDev)
 
 
