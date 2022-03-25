@@ -1,6 +1,6 @@
 <h2> Howdy, I'm A Pink Dev, also called Dani or Neko~! <img src="https://media.giphy.com/media/JRsQiAN79bPWUv43Ko/giphy.gif" width="50"></h2>
 <img align='right' src="https://media0.giphy.com/media/cfiPnkNpenIFUg9ppo/200w.webp?cid=ecf05e47x65tfdh7k55moquag90kmhu5h8yf12m8k17x9egn&rid=200w.webp&ct=g" width="230">
-<p><em>A Full Stack Developer in a quest! and <a href="https://www.soyhenry.com/">a Student of Henry~</a><img src="https://media0.giphy.com/media/dZd6NaZ8522fBx6w3d/200w.gif" width="30"></br>I am currently looking for a job~ <img src="https://i.pinimg.com/originals/2c/fc/fa/2cfcfabf5f5fe0aa109cbe34aa12df2a.gif" width="30"> 
+<p><em>A Full Stack Developer in a quest! and <a href="https://www.soyhenry.com/">a student of Henry~</a><img src="https://media0.giphy.com/media/dZd6NaZ8522fBx6w3d/200w.gif" width="30"></br>I am currently looking for a job~ <img src="https://i.pinimg.com/originals/2c/fc/fa/2cfcfabf5f5fe0aa109cbe34aa12df2a.gif" width="30"> 
 </em></p>
 
 
@@ -29,7 +29,7 @@ const Neko = {
  I really like knowing that I am helpful in what I do, 
  With many hobbies such as role-playing and animation movies, 
  React lover and probably C# in the future too",
- challenge: "get a job before the end of the year"
+ quest: "get a job before the end of the year"
 }
 ```
 
