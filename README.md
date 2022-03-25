@@ -25,7 +25,7 @@ const Neko = {
                         
                       },
                       
- personality: "a sweet boy who loves to help in any way possible, 
+ personality: "a sweet boy who loves to help in any possible way, 
  I really like knowing that I am helpful in what I do, 
  With many hobbies such as role-playing and animation movies, 
  React lover and probably C# in the future too",
