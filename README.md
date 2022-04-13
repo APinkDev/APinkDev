@@ -14,7 +14,7 @@
 const Neko = {
   pronouns: "he" | "they",
   code: [Javascript, HTML, CSS, Sql ],
-  tools: [React, Redux, Node, Styled-Components, Jest, Heroku, Vercell],
+  tools: [React, Redux, Node, Styled-Components, Jest, Heroku, Vercell, Stripe],
 
   Best Skills: {
                         Mood: "*****",
