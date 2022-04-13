@@ -27,7 +27,7 @@ const Neko = {
                       
  personality: "a sweet boy who loves to help in any possible way, 
  I really like knowing that I am helpful in what I do, 
- With many hobbies such as role-playing and animation movies, 
+ I have a lot of hobbies such as role-playing and animation movies, 
  React lover and probably C# in the future too",
  quest: "get a job before the end of the year"
 }
